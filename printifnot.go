@@ -1,0 +1,8 @@
+package piscine
+
+printifnot(str string) int {
+	if len (str) > 3 {
+		return "G/n"
+	}
+	return "invild inputin"
+}

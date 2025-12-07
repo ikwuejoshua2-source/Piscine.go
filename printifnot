@@ -1,6 +1,6 @@
 package piscine
 
-printifnot(str string) int {
+printifnot (str string) int {
 	if len (str) > 3 {
 		return "G/n"
 	}

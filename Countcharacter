@@ -1,0 +1,12 @@
+package piscine 
+
+func Countcharacter (s sting) string int {
+	if len (str) = 0 {
+		return 0
+	} count := 0
+	for_, char = range str {
+		if char == c {
+			count ++
+	}
+	return count 
+}
